@@ -1,5 +1,5 @@
 
-# Sentient Analysis with RNN
+# Sentiment Analysis with RNN
 Partial Requirement for MEM 531
 USTP CdO
 This code provides an example of sentiment analysis using a Recurrent Neural Network (RNN) on the IMDb dataset. The goal is to predict whether a movie review is positive or negative based on its text.
